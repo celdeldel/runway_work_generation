@@ -1,7 +1,8 @@
 
 # runway_work_generation
 
-this repository is made to generate encodings from noise. Encodings of 128d which are similary to openface embeddings
+this repository is made to generate encodings from noise. 
+Encodings of 128d which are similary to face encodings generated using face_recognition by Adam Geitgey using open source Dlib
 using tsv made by Adam Novak
 encodings are precharged using face_recognition my by Adam Geitgey and Dlib made by Davis E. King  
 
